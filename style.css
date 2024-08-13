@@ -1,0 +1,46 @@
+/* src/styles.css */
+.bg-custom {
+    background-image: url('C:/Users/Lenovo/Downloads/ch.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Adjust as needed */
+  }
+
+  .text-pale-turquoise {
+    color: #AFEEEE;
+  }
+  
+
+  /* src/styles.css */
+.navbar-transparent {
+    background-color: transparent !important;
+  }
+
+  /* Custom styles for the hero section */
+.hero-section {
+    background: url('C:/Users/Lenovo/Downloads/ch.jpg') no-repeat center center;
+    background-size: cover;
+    position: relative;
+    color: #fff;
+  }
+  
+  .hero-overlay {
+    background: rgba(0, 0, 0, 0.5); /* Dark overlay for better text contrast */
+    padding: 5rem 0;
+  }
+  
+  .hero-button {
+    background-color: #007bff; /* Customize button color */
+    border: none;
+  }
+  
+  .hero-button:hover {
+    background-color: #0056b3; /* Customize hover color */
+  }
+  
+  .font-weight-bold {
+    font-weight: bold;
+  }
+  
+  
+  
